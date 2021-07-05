@@ -7,7 +7,7 @@
 - 🎹 Also a DJ/Music Producer
 
 
-![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoiswelliton&show_icons=true&theme=merko)
+![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoiswelliton&show_icons=true&theme=dark)
 
 
 <!--
