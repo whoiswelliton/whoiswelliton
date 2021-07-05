@@ -10,7 +10,6 @@
 
 <h4 align="center"></h4>
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=whoiswelliton&theme=react" alt="Welliton :: Top Langs" /></p>
-<h4 align="center"></h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&langs_count=10&theme=react&layout=compact" alt="Welliton :: Top Langs" /></p>
 
 
