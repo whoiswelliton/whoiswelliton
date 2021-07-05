@@ -2,7 +2,7 @@
 
 **I'm Currently:**
 - 🔭 Working as Data Science Intern at [BRF](https://www.brf-global.com/)
-- 🎓 Studying Computer Engineering at UTFPR-PB
+- 🎓 Studying Computer Engineering at [UTFPR-PB](http://www.utfpr.edu.br/)
 - 📖 Learning AI, Data Science & Data Engineering
 
 
