@@ -1,6 +1,6 @@
 # Hi there, I'm Welliton
 
-**I'm ⬇️**
+### I'm ⬇️
 - 💻 Working as Data Science Intern at [BRF](https://www.brf-global.com/)
 - 🎓 Studying Computer Engineering at [UTFPR-PB](http://www.utfpr.edu.br/)
 - 📖 Learning AI, Data Science & Data Engineering
