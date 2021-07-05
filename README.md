@@ -9,15 +9,6 @@
 
 ![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoiswelliton&show_icons=true&theme=dark)
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&hide=html&layout=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=whoiswelliton&theme=default" /></td>
-  </tr>   
-</table>
-</center>
-
 
 <!--
 **whoiswelliton/whoiswelliton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
