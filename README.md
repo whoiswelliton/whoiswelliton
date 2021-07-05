@@ -1,8 +1,8 @@
-### Hi there 👋,
+### Hi there 👋, I'm Welliton,
 
-- 🔭 I’m currently working as Data Science Intern at BRF
-- 🎓 I’m currently studying Computer Engineering at UTFPR-PB
-- 📖 I’m currently learning AI and Data Science
+- 🔭 Working as Data Science Intern at BRF
+- 🎓 Studying Computer Engineering at UTFPR-PB
+- 📖 Learning AI, Data Science & Data Engineering
 
 
 <!--
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Working as Data Science Intern at BRF
-- 🔭 I’m currently studying Computer Engineering at UTFPR-PB
-- 🌱 I’m currently learning AI and Data Science
+- 🔭 Studying Computer Engineering at UTFPR-PB
+- 🌱 Learning AI and Data Science
 - 📫 How to reach me: 
 -->
