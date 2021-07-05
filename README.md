@@ -9,12 +9,14 @@
 
 <p align="center">
 <a href="https://github.com/whoiswelliton">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoiswelliton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoiswelliton&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoiswelliton&theme=react)](https://git.io/streak-stats)
+</p>
 
 <!--
 **whoiswelliton/whoiswelliton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
