@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-- 🔭 Working as Data Science Intern at BRF
+- 🔭 I’m currently working as Data Science Intern at BRF
 - 🔭 I’m currently studying Computer Engineering at UTFPR-PB
 - 🌱 I’m currently learning AI and Data Science
 
