@@ -6,14 +6,10 @@
 - 📖 Learning AI, Data Science & Data Engineering
 - 🎹 Also a DJ/Music Producer
 
-<h4 align="center"></h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=whoiswelliton&layout=compact&show_icons=true&count_private=true&theme=react" alt="Welliton :: Stats" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&langs_count=10&theme=react&layout=compact" alt="Welliton :: Top Langs" /></p>
-
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoiswelliton&layout=compact&show_icons=true&count_private=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&langs_count=10&theme=react&layout=compact"/>
+<a href="https://github.com/whoiswelliton">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoiswelliton&layout=compact&show_icons=true&count_private=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&langs_count=10&theme=react&layout=compact"/>
 </a>
 </p>
 
