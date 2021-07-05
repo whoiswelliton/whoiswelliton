@@ -6,7 +6,7 @@
 - 📖 Learning AI, Data Science & Data Engineering
 - 🎹 Also a DJ/Music Producer
 
-![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&count_private=true&theme=react)
+![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoiswelliton&show_icons=true&&count_private=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
