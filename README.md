@@ -7,13 +7,6 @@
 - 🎹 Also a DJ/Music Producer
 
 
-<p align="center">
-<a href="https://github.com/whoiswelliton">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoiswelliton&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
