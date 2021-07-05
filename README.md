@@ -1,4 +1,4 @@
-# Hey, I'm Welliton!
+# Hey, I'm Welliton,
 
 ### I'm ⬇️
 - 💻 Working as Data Science Intern at [BRF](https://www.brf-global.com/)
