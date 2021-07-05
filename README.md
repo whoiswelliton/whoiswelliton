@@ -10,6 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&langs_count=10&theme=tokyonight&layout=compact" alt="Welliton :: Top Langs" /></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoiswelliton&theme=react)](https://git.io/streak-stats)
 
 
