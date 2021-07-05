@@ -10,7 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoiswelliton&theme=react)](https://git.io/streak-stats)
 
 
