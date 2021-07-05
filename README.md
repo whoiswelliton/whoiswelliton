@@ -8,7 +8,7 @@
 
 ![Welliton's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoiswelliton&layout=compact&show_icons=true&count_private=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=default&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswelliton&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoiswelliton&theme=react)](https://git.io/streak-stats)
 
