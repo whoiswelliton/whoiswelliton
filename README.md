@@ -3,7 +3,7 @@
 ### I'm ⬇️
 - 💻 Working as Data Science Intern at [BRF](https://www.brf-global.com/)
 - 🎓 Studying Computer Engineering at [UTFPR-PB](http://www.utfpr.edu.br/)
-- 📖 Learning AI, Data Science & Data Engineering
+- 📖 Learning Data Science & Data Engineering
 - 🎹 Also a DJ/Music Producer
 
 <p align="center">
