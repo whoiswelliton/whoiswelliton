@@ -3,8 +3,9 @@
 ### I'm ⬇️
 - 💻 Working as Data Science Intern at [BRF](https://www.brf-global.com/)
 - 🎓 Studying Computer Engineering at [UTFPR-PB](http://www.utfpr.edu.br/)
-- 📖 Learning AI & Data Science
-- 🎹 Also a DJ/Music Producer
+- 🎹 Also a DJ/Music Producer/DIY Musician
+- 🤖 Learning AI & Data Science
+- 📖 Always Learning!
 
 <p align="center">
 <a href="https://github.com/whoiswelliton">
