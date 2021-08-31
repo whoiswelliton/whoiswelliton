@@ -6,7 +6,6 @@
 - 🎹 Also a DJ and Music Producer (Listen on [Soundcloud](https://soundcloud.com/whoiswelliton))
 - 🔊 Learning Audio Engineering & Digital Signal Processing 
 - 🤖 Learning AI & Data Science
-- 📖 Always Learning!
 
 <p align="center">
 <a href="https://github.com/whoiswelliton">
