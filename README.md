@@ -1,11 +1,11 @@
 # Hey, I'm Welliton,
 
 ### I'm ⬇️
-- 💻 Working as Junior Data Scientist at [BRF](https://www.brf-global.com/)
-- 🎓 Studying Computer Engineering at [UTFPR-PB](http://www.utfpr.edu.br/)
+- 💻 Working as Data Scientist at [BRF](https://www.brf-global.com/)
+- 🎓 Computer Engineer [UTFPR-PB](http://www.utfpr.edu.br/)
 - 🎹 Also a DJ and Music Producer
-- 🔊 Learning Audio Engineering & Digital Signal Processing 
-- 🤖 Learning AI & Data Science
+- 🔊 Specialist with Digital Signal Processing & Time Series
+- 🤖 Learning more everyday about AI & Data Science
 
 <p align="center">
 <a href="https://github.com/whoiswelliton">
