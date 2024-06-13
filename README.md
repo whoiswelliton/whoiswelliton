@@ -1,9 +1,9 @@
 # Hey, I'm Welliton,
 
 ### I'm ⬇️
-- 💻 Data Scientist at [BRF](https://www.brf-global.com/)
-- 🎓 Computer Engineer [UTFPR-PB](http://www.utfpr.edu.br/)
-- 🎹 DJ and Music Producer [Soundcloud](https://soundcloud.com/whoiswelliton)
+- 💻 Data Scientist - [BRF](https://www.brf-global.com/)
+- 🎓 Computer Engineer - [UTFPR-PB](http://www.utfpr.edu.br/)
+- 🎹 DJ and Music Producer - [Soundcloud](https://soundcloud.com/whoiswelliton)
 - 🔊 Specialist with Digital Signal Processing & Time Series Analysis
 - 🤖 And an everyday learner!
 
